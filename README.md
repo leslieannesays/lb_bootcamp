@@ -1,2 +1,3 @@
 # lb_bootcamp
-practice making repository 
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
